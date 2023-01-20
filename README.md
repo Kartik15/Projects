@@ -1,9 +1,9 @@
 # Projects Info
 
-1)Project Folder contains:
+## Project Folder contains:
   
-  IPYNB Code File contains all the code.
+  1. IPYNB Code File contains all the code.
   
-  Dataset for required Projects.
+  2. Dataset for required Projects.
   
-  About_Project document having the Overall gist of Project
+  3. About_Project document having the Overall gist of Project
