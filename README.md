@@ -1,3 +1,3 @@
-## Sample Private Project Code for Job Application procedures
+## Sample Private Projects Code for Job Application procedures
 
 
